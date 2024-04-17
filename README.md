@@ -1,5 +1,4 @@
-# BSF Products - Unlocking the Power of the Internet for Small Businesses #
-**Contributors:** [brainstormforce](https://profiles.wordpress.org/brainstormforce/)  
+# BSF Products #
 
 ## Unlocking the Power of the Internet for Small Businesses. ##
 
