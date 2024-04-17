@@ -1,17 +1,19 @@
-# BSF Products #
+# BSF Products - Unlocking the Power of the Internet for Small Businesses #
 **Contributors:** [brainstormforce](https://profiles.wordpress.org/brainstormforce/)  
 
-## About Us ##
+## Unlocking the Power of the Internet for Small Businesses. ##
+
+### About Us ###
 
 At Brainstorm Force, we believe creating a website shouldn’t be difficult or complicated. We build quality products and tools that are simple to use, affordable, and reliable to help entrepreneurs, professionals, and bloggers grow online.
 
-## Important Links ##
+### Important Links ###
 1. [Read Our Story](https://brainstormforce.com/about/)
 2. [Our Products](https://brainstormforce.com/products/)
 3. [Contact Us](https://brainstormforce.com/contact/)
 4. [Career](https://brainstormforce.com/join/)
 
-## Top Notch Products ##
+### Top Notch Products ###
 1. [Astra](https://wpastra.com/)
 2. [Starter Templates](https://startertemplates.com/)
 3. [Spectra](https://wpspectra.com/)
