@@ -10,7 +10,6 @@ At Brainstorm Force, we believe creating a website shouldn’t be difficult or c
 2. [Our Products](https://brainstormforce.com/products/)
 3. [Contact Us](https://brainstormforce.com/contact/)
 4. [Career](https://brainstormforce.com/join/)
-5. [Blog](https://brainstormforce.com/blog/)
 
 ## Top Notch Products ##
 1. [Astra](https://wpastra.com/)
